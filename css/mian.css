@@ -1,0 +1,32 @@
+.page-logo img {
+    width: 600px;
+}
+.video-section {
+    margin-top: 150px;
+}
+.video-section h2 {
+    font-family: NeoSansAr;
+    font-size: 80px;
+}
+.main-slider {
+    height: 500px;
+    padding: 0 70px;
+}
+.main-slider p {
+    font-size: 36px;
+    font-family: NeoSansArabicRegular;
+}
+
+
+.color-switcher {
+    background: #98989c;
+}
+
+.color-switcher .page-logo .white-logo{
+    display: block !important;
+}
+
+.color-switcher .page-logo .black-logo{
+    display: none !important;
+}
+
